@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": 3
+    },
+    {
+        "question": "Which animal is known as the 'King of the Ocean'?",
+        "options": ["Shark", "Dolphin", "Orca", "Sea Turtle"],
+        "answer": 0
+    },
+    {
+        "question": "What is the primary source of energy for the ocean's ecosystem?",
+        "options": ["Wind", "Sunlight", "Geothermal Heat", "Tidal Energy"],
+        "answer": 1
+    },
+    {
+        "question": "Which creature is known for its ability to change color for camouflage?",
+        "options": ["Octopus", "Sea Horse", "Jellyfish", "Clownfish"],
+        "answer": 0
+    },
+    {
+        "question": "What is the process by which water vapor turns into liquid water?",
+        "options": ["Evaporation", "Condensation", "Precipitation", "Transpiration"],
+        "answer": 1
+    },
+    {
+        "question": "Which ocean is the Bermuda Triangle located in?",
+        "options": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+        "answer": 2
+    },
+    {
+        "question": "What is the largest coral reef system in the world?",
+        "options": ["Great Barrier Reef", "Belize Barrier Reef", "Red Sea Coral Reef", "Andros Barrier Reef"],
+        "answer": 0
+    },
+    {
+        "question": "Which marine animal is known for its long migrations, sometimes over 10,000 miles?",
+        "options": ["Sea Turtle", "Blue Whale", "Salmon", "Great White Shark"],
+        "answer": 1
+    },
+    {
+        "question": "What type of animal is a clownfish?",
+        "options": ["Mammal", "Reptile", "Fish", "Amphibian"],
+        "answer": 2
+    },
+    {
+        "question": "Which ocean is home to the Mariana Trench, the deepest point on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": 3
+    }
+]
